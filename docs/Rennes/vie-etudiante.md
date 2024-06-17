@@ -18,4 +18,5 @@
 
 ### Parkings 🚗
 
-!!! failure "ToDo"
+- [Parc Relais autour des métros](https://www.star.fr/se-deplacer/parc-relais/fonctionnement) !! Faire attention aux heures de fermeture !!
+- [Liste des parkings payants/gratuits)[https://www.tourisme-rennes.com/infos-pratiques/parking-rennes-se-garer/]
